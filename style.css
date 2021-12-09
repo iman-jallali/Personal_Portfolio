@@ -1,0 +1,43 @@
+#title{
+    background-color: rgb(222, 224, 224);
+}
+#hello{
+    font-family: 'Sacramento', cursive;
+    font-weight: bolder;
+    padding: 10% 0 0 35%;
+    line-height: 0%;
+    color: rgb(7, 15, 180);
+}
+#im{
+    font-family: 'Inconsolata', monospace;
+    padding: 3% 0 0 30%;
+}
+#software{
+    padding: 8% 0 0 20%;
+}
+#details{
+    padding-top: 10%;
+}
+#ux{
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: rgb(7, 15, 180);
+    padding-left: 5rem;
+}
+#software{
+    font-family: 'Inconsolata', monospace;
+}
+#first{
+    margin: 4% 1% 1% 1%;
+    text-align: center;
+}
+#second{
+    margin: 4% 1% 1% 1%;
+    text-align: center;
+}
+#third{
+    margin: 4% 1% 1% 1%;
+    align-items: center;
+    text-align: center;
+}
